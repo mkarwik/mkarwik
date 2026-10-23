@@ -9,4 +9,4 @@ Math & CS student at the University of Warsaw (MIMUW). I build small products th
 
 Previously: Product Manager Intern at Splunk (Cisco), Project Manager Intern at Signify.
 
-[maciejkarwik.pl](https://maciejkarwik.pl) · [LinkedIn](https://www.linkedin.com/in/maciej-karwik-44976324b/) · maciejkarwik1@gmail.com
+[maciejkarwik.pl](https://maciejkarwik.pl) · [LinkedIn](https://www.linkedin.com/in/maciej-karwik/) · maciejkarwik1@gmail.com
